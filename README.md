@@ -5,14 +5,12 @@
   </div>
 </div>
 
-#### Markup and Languages
-![Typescript](https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=222222&logo=typescript&logoColor=377cc8&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-![CSharp](https://img.shields.io/static/v1?style=for-the-badge&message=C%20sharp&color=fff&logo=CSharp&logoColor=390091&label=)
-![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=1e293b&logo=TailwindCss&logoColor=38bdf8&label=)
-![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+####  Markup and Languages
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=222222&logo=typescript&logoColor=377cc8&label="> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%20sharp&color=fff&logo=CSharp&logoColor=390091&label="> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logoColor=white">
+#### 🛠️ Other Tools and Technologies
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> <img src="https://img.shields.io/badge/Terminal-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+
+ 
 
 #### Contact me!
 <a href="https://www.linkedin.com/in/alexander-lópez-0721a7304/">
